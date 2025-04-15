@@ -3,7 +3,7 @@ type: ProjectLayout
 title: SELF CHECKOUT SYSTEM
 colors: colors-a
 date: '2021-10-15'
-client: ARcher
+client: ARCHER
 description: ''
 featuredImage:
   type: ImageBlock
