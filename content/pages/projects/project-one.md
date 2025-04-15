@@ -6,14 +6,13 @@ date: '2021-10-15'
 client: ARCHER
 description: >-
   This project involves creating a mobile android integrates the functionalities
-  of the NFC,barcode scanning,weighing and a combination of other methods to
+  of the NFC, barcode scanning, weighing and a combination of other methods to
   create a seamless self checkout system that reduces the checkout time and
-  improves the general shopping experience, it also serves as a digital
-  platforkm where users are educated on the product just before shopping for
-  first time purchases, the platform will also run an adservice which will also
-  provide service information to shoppers ,other services and information would
-  also be provided by the application.  The application will be built using
-  modern mobile technologies. 
+  improves the general shopping experience, it also serves as a digital platform
+  where users are educated on the product just before shopping for first time
+  purchases, the platform will also run an ad service which will also provide
+  service information to shoppers ,other services and information would also be
+  provided by the application.  
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
